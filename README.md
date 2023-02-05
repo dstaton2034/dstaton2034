@@ -3,7 +3,7 @@
 <h2>👨‍💻Cybersecurity Development Projects:</h2>
 
   - [Microsoft Sentinel (SIEM) Homelab](https://github.com/dstaton2034/SIEM.git)
-  -[Active Directory Homelab](https://github.com/dstaton2034/Actice-Directory-Lab.git)
+  - [Active Directory Homelab](https://github.com/dstaton2034/Actice-Directory-Lab.git)
 
 
 
