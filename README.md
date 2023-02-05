@@ -1,5 +1,4 @@
 <h1>Hey, I'm Destiny Staton!<h1>
-Cybersecurity Enthusiast and Student!
 
  
 <h2>👨‍💻Cybersecurity Development Projects:</h2>
