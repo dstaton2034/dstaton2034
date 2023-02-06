@@ -1,7 +1,7 @@
-<h1>Hey, I'm Destiny Staton!<h1>
+<h1> 💕 Hey, I'm Destiny Staton!<h1>
 
  
-<h2>👨‍💻Cybersecurity Development Projects:</h2>
+<h2>👩‍💻Cybersecurity Development Projects:</h2>
 
   - [Microsoft Sentinel (SIEM) Homelab](https://github.com/dstaton2034/SIEM.git)
   - [Active Directory Homelab](https://github.com/dstaton2034/Actice-Directory-Lab.git)
